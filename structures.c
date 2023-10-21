@@ -1,0 +1,1 @@
+// for storing different values  int char we use structures
